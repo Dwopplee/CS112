@@ -1,0 +1,80 @@
+make	 model	year
+Ford	Expedition	2003
+Mazda	B-Series	1989
+Ford	Freestar	2003
+Hyundai	Elantra	2001
+Hyundai	Entourage	2008
+Chevrolet	Camaro	2011
+Chevrolet	Monte Carlo	2006
+Chevrolet	Blazer	1996
+Chevrolet	Aveo	2005
+Chevrolet	Corvette	1999
+Mercedes-Benz	E-Class	2006
+Dodge	Avenger	1995
+Pontiac	Grand Prix	1973
+Mitsubishi	Outlander	2011
+MINI	Clubman	2011
+Suzuki	Aerio	2007
+Dodge	Dakota Club	1992
+Chevrolet	Astro	2002
+Chevrolet	Tahoe	1996
+Mitsubishi	Mirage	1994
+Porsche	944	1991
+Hyundai	Elantra	1994
+Mercury	Grand Marquis	1998
+Volkswagen	Golf	2001
+Jaguar	XJ Series	2005
+Toyota	Echo	2005
+GMC	Safari	2002
+GMC	Sierra 1500	2000
+Chevrolet	Cobalt	2005
+Jeep	Patriot	2008
+Mazda	Navajo	1991
+Chevrolet	Malibu	2001
+Saab	900	1990
+Mercury	Grand Marquis	1998
+Hummer	H1	2004
+Subaru	Loyale	1993
+Jeep	Wrangler	1999
+Ford	Mustang	1994
+Austin	Mini Cooper S	1963
+Mercedes-Benz	M-Class	1998
+Jeep	Wrangler	2006
+Honda	Civic	1997
+Plymouth	Voyager	1994
+Ford	Club Wagon	1997
+Audi	5000S	1984
+Saturn	VUE	2003
+Oldsmobile	Achieva	1994
+Mercedes-Benz	G55 AMG	2006
+Chevrolet	Express 3500	1997
+Lexus	ES	1992
+Cadillac	Allante	1992
+Hyundai	Tiburon	1997
+Pontiac	Grand Prix	1965
+Ford	Focus	2000
+Mitsubishi	Chariot	1987
+Chrysler	Prowler	2001
+Land Rover	Discovery	2012
+Volkswagen	Scirocco	1984
+Ford	Bronco	1984
+Hyundai	Accent	1996
+Volkswagen	Routan	2012
+Volkswagen	Golf	2003
+GMC	Terrain	2010
+Ford	F150	2009
+GMC	Sierra	2011
+Dodge	Ram Van 1500	2000
+Chrysler	300	2009
+Oldsmobile	Achieva	1997
+Land Rover	Discovery	2008
+Toyota	4Runner	2002
+Porsche	911	1995
+Toyota	Land Cruiser	2002
+Land Rover	Defender	1994
+Chevrolet	Lumina	1997
+Audi	TT	2002
+Chrysler	Town & Country	2009
+Nissan	Frontier	2000
+Toyota	Tercel	1997
+Buick	Riviera	1997
